@@ -7,7 +7,7 @@ import {
 function Header() {
   return (
     <header>
-      <div className="flex items-center bg-amazon_blue p-1 flex-grow py-2">
+      <div className="flex items-center bg-amazon_blue p-1 flex-grow py-2 ">
         <div className="mt-2 flex items-center flex-grow flex-sm-grow-0">
           <Image
             src="https://links.papareact.com/f90"
